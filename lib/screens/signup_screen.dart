@@ -1,4 +1,3 @@
-// screens/login_screen.dart
 import 'package:flutter/material.dart';
 import 'package:ysu_connection/widgets/hero_header.dart';
 
