@@ -31,6 +31,7 @@ class Button extends StatelessWidget {
               text,
               style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
             ),
+            SizedBox(width: 10),
             Icon(icon, size: 32),
           ],
         ),
